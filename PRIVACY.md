@@ -55,4 +55,4 @@ This privacy policy may be updated from time to time. Any changes will be reflec
 
 ---
 
-Thank you for using Retabtile. We respect your privacy.
+Thank you for using Retabtile. We respect your privacy!
